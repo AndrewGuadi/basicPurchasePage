@@ -1,0 +1,59 @@
+
+
+.outerBox {
+    display: flex;
+    padding: 250px;
+    
+}
+
+.test{
+    color:white;
+    font-size: 50px;
+}
+
+.picture{
+    width: 350px;
+    justify-content: space-evenly;
+    border-radius: 15px;
+
+}
+
+.textBox {
+    margin-left:25px;
+}
+
+.newPriceFont {
+    font-family: Fraunces;
+    color:darkcyan;
+}
+
+
+.itemNameFont {
+    font-family: Fraunces;
+    width:200px;
+}
+
+.descriptionFont {
+    font-family: Montserrat;
+    word-spacing: 30;
+    width:225px;
+    font-weight: 100;
+    line-height: 2;
+    font-size: 14px;
+}
+
+
+.addToCart {
+    margin:auto;
+    background-color: darkcyan;
+    color:white;
+    width:250px;
+    font-family:Montserrat;
+    border: 0;
+    border-radius:12px;
+    padding:10px;
+}
+
+button:hover{
+    cursor:pointer;
+}
